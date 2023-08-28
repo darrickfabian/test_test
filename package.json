@@ -1,0 +1,13 @@
+{
+  "name": "test_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-search.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
